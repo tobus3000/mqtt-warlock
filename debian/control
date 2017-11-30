@@ -1,0 +1,15 @@
+Source: mqtt-warlock
+Section: x11
+Priority: extra
+Maintainer: Tobias Hildebrand <tobus3000@tobotec.ch>
+Build-Depends: cmake (>= 2.8),
+               debhelper (>= 9),
+               libgtk-3-dev,
+               valac (>= 0.16)
+Standards-Version: 3.9.3
+
+Package: mqtt-warlock
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Simplify most common MQTT jobs.
+ This application does not contain an MQTT broker.
