@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=MQTT Warlock
+GenericName=MQTT Warlock App
+Comment=A simple MQTT listener app to help simplify some common tasks
+Categories=Utility;
+Exec=com.github.tobus3000.mqtt-warlock
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=mqtt-warlock
+Keywords=MQTT;

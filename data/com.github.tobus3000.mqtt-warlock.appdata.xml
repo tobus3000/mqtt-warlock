@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Tobias Hildebrand <tobus3000@tobotec.ch> -->
+<component type="desktop">
+  <id>com.github.tobus3000.mqtt-warlock.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>MQTT Warlock</name>
+  <summary>Simplify most common MQTT jobs</summary>
+  <description>
+    <p>This app tries to assist in managing IoT devices over the MQTT protocol.</p>
+  </description>
+  <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">1</value>
+  </custom>
+</component>
